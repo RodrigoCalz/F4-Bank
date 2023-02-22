@@ -126,6 +126,7 @@ Estilo footer
     flex-direction: row;
     justify-content: space-around;
     padding-left: 5.5px;
+    padding-top: 10px;
     text-align: center;
     
 }
